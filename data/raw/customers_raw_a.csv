@@ -1,0 +1,5 @@
+customer_id,full_name,email,signup_date,city
+1,Anna Müller,anna@example.com,2024-01-10,München
+2,Max Bauer,max@example.com,2024-02-14,Augsburg
+3,Lea Schmidt,lea@example.com,2024-03-03,Berlin
+4,Tom Keller,tom@example.com,2024-03-20,Hamburg

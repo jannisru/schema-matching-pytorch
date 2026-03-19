@@ -1,0 +1,10 @@
+table_a,column_a,table_b,column_b,label
+customers_a,customer_id,customers_b,client_id,1
+customers_a,full_name,customers_b,name,1
+customers_a,email,customers_b,email_address,1
+customers_a,signup_date,customers_b,registration_date,1
+customers_a,city,customers_b,location,1
+customers_a,email,customers_b,location,0
+customers_a,signup_date,customers_b,name,0
+customers_a,customer_id,customers_b,email_address,0
+customers_a,city,customers_b,registration_date,0

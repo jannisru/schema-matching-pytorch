@@ -1,0 +1,5 @@
+client_id,name,email_address,registration_date,location
+11,Anna Müller,anna@example.com,2024-01-10,München
+12,Max Bauer,max@example.com,2024-02-14,Augsburg
+13,Lea Schmidt,lea@example.com,2024-03-03,Berlin
+14,Tom Keller,tom@example.com,2024-03-20,Hamburg
