@@ -1,0 +1,19 @@
+data:
+  dir: data/raw
+  labels: data/labels/column_matches.csv
+  val_split: 0.2
+  random_seed: 42
+
+model:
+  encoder: all-MiniLM-L6-v2
+  dropout: 0.3
+
+training:
+  epochs: 10
+  lr: 0.001
+  batch_size: 8
+  patience: 3
+
+output:
+  model_path: model.pt
+  pr_curve: pr_curve.png

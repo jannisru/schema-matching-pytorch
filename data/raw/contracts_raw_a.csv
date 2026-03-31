@@ -1,0 +1,5 @@
+contract_id,client_name,start_date,end_date,value
+C-001,Acme Corp,2024-01-01,2024-12-31,50000.00
+C-002,Global Tech,2024-03-01,2025-02-28,12000.00
+C-003,Sunrise Ltd,2024-06-01,2025-05-31,30000.00
+C-004,Delta Systems,2024-07-15,2025-07-14,8500.00

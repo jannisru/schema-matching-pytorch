@@ -1,0 +1,4 @@
+product_id,product_name,price,category,stock
+1,Laptop,1200,Electronics,10
+2,Phone,800,Electronics,20
+3,Desk,200,Furniture,15

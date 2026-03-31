@@ -1,0 +1,5 @@
+supplier_id,company_name,contact_email,country,phone_number
+1,Acme Corp,contact@acme.com,Germany,+49-30-1234567
+2,Global Tech,info@globaltech.com,USA,+1-555-2345678
+3,Sunrise Ltd,hello@sunrise.co,UK,+44-20-9876543
+4,Delta Systems,delta@delta.de,Germany,+49-89-7654321

@@ -1,0 +1,4 @@
+item_id,name,cost,type,inventory
+10,Laptop,1200,Electronics,10
+11,Phone,800,Electronics,20
+12,Desk,200,Furniture,15

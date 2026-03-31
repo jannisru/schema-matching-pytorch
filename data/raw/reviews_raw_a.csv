@@ -1,0 +1,5 @@
+review_id,product_id,rating,review_text,review_date
+1,101,5,Great product!,2024-01-15
+2,102,3,Average quality.,2024-02-20
+3,101,4,Would buy again.,2024-03-05
+4,103,1,Very disappointed.,2024-03-18

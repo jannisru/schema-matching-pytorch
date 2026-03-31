@@ -1,0 +1,4 @@
+purchase_id,client_id,purchase_date,total_amount,state
+5001,11,2024-01-10,120.5,shipped
+5002,12,2024-02-14,75.0,pending
+5003,13,2024-03-03,200.0,delivered

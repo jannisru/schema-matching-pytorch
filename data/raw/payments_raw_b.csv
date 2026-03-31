@@ -1,0 +1,4 @@
+transaction_id,purchase_id,date,total,channel
+101,5001,2024-01-11,120.5,credit_card
+102,5002,2024-02-15,75.0,paypal
+103,5003,2024-03-04,200.0,bank_transfer

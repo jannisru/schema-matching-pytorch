@@ -1,0 +1,4 @@
+delivery_id,purchase_id,dispatch_date,arrival_date,service
+10,5001,2024-01-11,2024-01-13,DHL
+11,5002,2024-02-15,2024-02-18,UPS
+12,5003,2024-03-04,2024-03-07,FedEx
